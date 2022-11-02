@@ -1,0 +1,62 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: rgb(88, 88, 88);
+  font-size: 30px;
+  font-weight: 100;
+  line-height: 20px;
+  padding: 10px 0 0;
+  margin: 15px 0;
+}
+li {
+  color: rgb(110, 110, 110);
+  list-style: none;
+}
+ul {
+  padding: 0;
+  margin: 10px 0;
+}
+.temperatura {
+  font-size: 36px;
+  width: 200px;
+  height: 64px;
+  padding: 10px 0 10px 10px;
+  line-height: 1.5;
+  vertical-align: middle;
+}
+.weather {
+  margin: 20px auto;
+  padding: 10px;
+  max-width: 500px;
+  border: 1px solid rgb(219, 219, 219);
+  border-radius: 5px;
+}
+
+.degree {
+  vertical-align: middle;
+  padding: 10px 0;
+}
+.indikators {
+  color: rgb(110, 110, 110);
+}
+#location {
+  margin: 0 30px 0;
+  padding: 5px;
+  background: rgb(91, 91, 241);
+  color: black;
+  border: none;
+  border-radius: 3px;
+  font-size: inherit;
+  line-height: inherit;
+}
+#searchButton {
+  margin: 0 10px 0;
+  padding: 5px;
+  background: rgb(114, 243, 114);
+  color: black;
+  border: none;
+  border-radius: 3px;
+  font-size: inherit;
+  line-height: inherit;
+}
