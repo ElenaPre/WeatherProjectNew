@@ -17,6 +17,7 @@ ul {
   padding: 0;
   margin: 10px 0;
 }
+
 .temperatura {
   font-size: 36px;
   width: 200px;
@@ -59,4 +60,13 @@ ul {
   border-radius: 3px;
   font-size: inherit;
   line-height: inherit;
+}
+
+#link {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+#footer {
+  text-align: center;
 }
